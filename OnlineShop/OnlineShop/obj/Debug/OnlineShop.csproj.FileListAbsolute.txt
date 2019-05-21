@@ -1,0 +1,12 @@
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Properties.Resources.resources
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.GenerateResource.cache
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Laurica\OneDrive\repos\PSGBD\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Form1.resources
