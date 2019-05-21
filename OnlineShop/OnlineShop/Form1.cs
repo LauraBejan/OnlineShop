@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using OnlineShop.Models;
 
 namespace OnlineShop
 {
@@ -20,6 +21,9 @@ namespace OnlineShop
         private void button1_Click(object sender, EventArgs e)
         {
             Connection connection = new Connection();
+            //connection.Open();
+            Available_products availableProducts = new Available_products();
+            availableProducts.GetProducts(connection);
         }
     }
 }

@@ -11,17 +11,23 @@ namespace OnlineShop
 {
     class Connection
     {
-        public Connection()
-        {
-            string connectionString = ConfigurationManager.ConnectionStrings["MyDataBase"].ConnectionString;
+        string connectionString = ConfigurationManager.ConnectionStrings["MyDataBase"].ConnectionString;
+        public OracleConnection _connection = new OracleConnection();
 
-            OracleConnection _connection = new OracleConnection();
+        public Connection(){
+        }
+        public void Open()
+        {
+
             _connection.ConnectionString = connectionString;
             _connection.Open();
-            string sql = "select * from image";
+            //string sql = "select * from image";
 
-            OracleCommand command = new OracleCommand(sql, _connection);
-            Console.WriteLine(command);
+            //OracleCommand command = new OracleCommand(sql, _connection);
+            //Console.WriteLine(command);
+        }
+        public void Close()
+        {
             _connection.Close();
         }
     }
