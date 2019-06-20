@@ -9,9 +9,9 @@ using System.Configuration;
 
 namespace OnlineShop
 {
-    class Connection
+    public class Connection
     {
-        string connectionString = ConfigurationManager.ConnectionStrings["MyDataBase"].ConnectionString;
+        public string connectionString = ConfigurationManager.ConnectionStrings["MyDataBase"].ConnectionString;
         public OracleConnection _connection = new OracleConnection();
 
         public Connection(){
